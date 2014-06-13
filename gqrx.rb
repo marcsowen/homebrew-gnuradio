@@ -8,6 +8,7 @@ class Gqrx < Formula
 
   depends_on "pkg-config" => :build
   depends_on "qt"
+  depends_on "gr-osmosdr"
 
   def install
     mkdir "build"
