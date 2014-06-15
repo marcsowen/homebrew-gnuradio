@@ -16,4 +16,4 @@ brew install --HEAD gr-osmosdr
 brew install --HEAD gqrx
 ```
 
-The latest release of librtlsdr is broken ob my machine, therefore you need to get the HEAD version at moment. Same applies for most of my taps. I hope I can fix this soon.
+The latest release of librtlsdr is broken on my machine, therefore you need to get the HEAD version at the moment. The same applies for most of my taps. I hope I can fix this soon.
