@@ -21,7 +21,7 @@ class Gnuradio < Formula
   depends_on "cppunit"
   depends_on "pygtk"
   depends_on "qwt"
-  depends_on "wxmac"
+  depends_on "wxpython"
 
   def install
     mkdir "build"
