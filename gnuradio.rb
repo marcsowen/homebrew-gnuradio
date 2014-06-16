@@ -20,7 +20,6 @@ class Gnuradio < Formula
   depends_on "gsl"
   depends_on "cppunit"
   depends_on "pygtk"
-  depends_on "qt"
   depends_on "qwt"
 
   def install
