@@ -20,6 +20,7 @@ class Gnuradio < Formula
   depends_on "gsl"
   depends_on "cppunit"
   depends_on "pygtk"
+  depends_on "pyqt"
   depends_on "qwt"
   depends_on "wxpython"
 
